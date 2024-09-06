@@ -256,7 +256,7 @@ p {
 }
 
 #header::before {
-    content:" ";
+    content:'';
     background: url("../img/rowing.jpeg") no-repeat center center/cover;
     position: absolute;
     top: 0;
@@ -280,7 +280,7 @@ p {
 }
 
 
-/* artickles */
+/* articles */
 
 #main-articles .articles-container {
     display: grid;
