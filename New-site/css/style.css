@@ -267,3 +267,12 @@ p {
 }
 
 
+/* artickles */
+
+#main-articles .articles-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+
+}
+
